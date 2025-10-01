@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
@@ -96,3 +97,12 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+=======
+Simple backend auth flow using NestJS. Covers user creation, login, and protected profile access.
+Stack
+- NestJS
+- PostgreSQL (via TypeORM)
+- Argon2 for password hashing
+- JWT for authentication
+- Cookie-based token delivery
+>>>>>>> edc2c41c54c7540bc91e3463bb06fa61b51f04e7
